@@ -1,6 +1,6 @@
 # Dart-Workouts
 
-* Flutter mobil programlama için Dart programlama dilinin söz dizimi ve yapısını öğrenmek için açılmış repo.
+* Flutter mobil programlama için Dart programlama dilinin söz dizimi ve yapısını öğrenmek amaçlı açılmış repo.
 
 * Dart programlama dilinin işlediğimiz konuları;
 
